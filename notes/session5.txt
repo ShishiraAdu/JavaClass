@@ -1,0 +1,7 @@
+We worked on programs related to if statements, else statements, else if statements, and for loops, to deepen our knowledge of them and confidence while using them.
+We also learned about the variable scanner, and have used it in a few programs. However our limited knowledge of this new variable led to misphaps in our programming.
+Another thing we learned about was the steps to writing a program. For example, the first step is to understand the use of the program. What is it suppoed to do?
+The second step is do figure out what needs to be done. How are you going to solve this?
+The third step is to write the program.
+Something else we learned about was another operator, %.
+The last thing we learned about was pseudo logic. This has to do with the fact that it is not always correct.
