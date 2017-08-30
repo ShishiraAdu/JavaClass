@@ -1,0 +1,3 @@
+Today we learned about variables, data types, syntax, the if statement, the else statement, the else if statement, for loops, and the general "Do"s and "Don't"s of java programming.
+Seeing as it was our first time learning all this, not to mention the fact that there was so much to learn, it was all ind of overwhelming to us at first.
+But given enough time to process it, it all became clear enough to work with. 
