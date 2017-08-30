@@ -1,0 +1,13 @@
+Introductions
+What is a computer?
+A hardware that runs on software.
+What is hardware?
+Hardware is something you can touch.
+Some pieces of hardware in a computer are the mouse, the screen, the keyboard, etc.
+What is software?
+Software is something that runs the computer.
+Some examples of software are operating systems.
+Decimal System
+The decimal system has ten digits, which consist of 0, 1, 2, 3, 4, 5, 6, 7, 8 and 9. Humans use the decimal system.
+Binary System
+The binary system has two digits, which consist of 0 and 1. Computers run on the binary system.
