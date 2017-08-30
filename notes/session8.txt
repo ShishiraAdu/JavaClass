@@ -1,0 +1,4 @@
+Today we recapped (again) on data types. Except this time we went a little further than the other two times.
+We added more controls that were related to the new data type, which was car.
+We added a start method, which prints "Starting the car." a stop method, which prints "Stopping the car.", and added two characteristics.
+The two characteristics were the horsepower of the car and the name of the car.
