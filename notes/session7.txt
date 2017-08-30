@@ -1,0 +1,13 @@
+In, this class, we recapped on: 
+-Syntax; the "do"s and "don't"s, 
+-If, else if and else; how to format them, what they can be used for, 
+-For loops;  how to format it, what it can be used for,  
+-Custom data types; how to make them, what they can be used for,
+-Class; what a class is, what a class is used for, how to make a class, 
+-Object; what an object is, what an object is used for, how to make an object,
+-Instance; the definition of an instance, what an instance is used for, how to make an instance, 
+-Actions; what an action is, what an action is used for, how to make an action,
+-Methods; what a method is, what a method is used for, how to make a method,
+-Functions; what a function is, what a function is used for, how to make a function,
+-Behavior; what behavior is, what behavior is used for, how to make behavior,
+Another thing we did was make a calculator sample. We got the calculator to be able to add two numbers together.
