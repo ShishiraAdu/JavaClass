@@ -1,0 +1,3 @@
+We figured out our computers details, like the byte, memory, the etheret, how much space our hard disks had,how to use command prompt, etc.
+Aftr getting to know our computers better, we wrote the HelloWorld program. It's a pretty basic program, where you get the computer to say "Hello World!" when you click run.
+Although having Sairama uncle walk us through it step-by-step most definitely helped, it was still kind of a challenge for us beginners with little to no knowledge of java. 
