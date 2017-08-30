@@ -1,0 +1,2 @@
+We learned about git, which is a version control system, and how we will be using it, which is for taking notes, exercises, quizzes, etc.
+We also cloned our git files to our laptops so we could have an extra copy of them. 
