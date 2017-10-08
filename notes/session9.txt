@@ -1,0 +1,6 @@
+What we did in this class was making our own data types again, but this time we incorporated some boolean commands too.
+Boolean is true or false. We used it by saying if car started is false, and we say start car, it will. But if the car is already started and we say start car, it wil send an error message.
+We also did encapsulation. The first part of encapsulation is about putting things that are related together.
+For example, we put readBook for person, voids start and stop for car, and canFly for animal. We did this because it makes sense.
+We did not put canFly for person or for car, because people and cars can't fly. But the animal we were talking about can.
+The second part of encapsulation is hiding the details. 
