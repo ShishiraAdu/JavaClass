@@ -1,0 +1,15 @@
+1.RAM stands for Random Access Memory. It holds the recent and important memories. It can be compared to a scratchpad, because you can write something, and then throw it away. CPU stands for Central Processing Unit. It controls everything. It can be compared to the brain, because te brain controls everything and does all the thinking. 
+2.
+3.
+4.Learning java is useful for programming.
+5.Syntax is the specific way you need to type something so the computer will understand.
+6.";" needs to go at the end of every line, unless you have a block, which you will start with "{" and end with "}".
+7.Package and class.
+8.A data type is the type of a variable, or it represents what it takes. For example, "int" could be the data type of the variable "x", and "boolean" represents that it takes only true and false.
+9."double" and "String".
+10.Class is where you write the program. It can thought of as a blueprint.
+11.An object is something used in the program. To define an object, you would write "Object o = new Object();
+12.A program starts at the line, "public static void main(String[] args) {".
+13.A method is a part of the program being used to do something. For example, "void printDetails() {" is being used to print the detagsils of the person.
+14.Shared.
+15.Encapsulation is hiding the details. Another thing is putting stuff that belongs together together. For example, you could group Honda with car, but you cannot put person with car since person is not a car.
